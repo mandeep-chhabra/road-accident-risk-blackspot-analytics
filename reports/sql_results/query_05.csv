@@ -1,0 +1,16 @@
+weather_conditions,road_surface_conditions,total_collisions,ksi_collisions,ksi_rate_pct,relative_risk_index
+Fine no high winds,Dry,143234,34504,24.09,1.02
+Fine no high winds,Wet or damp,22224,5805,26.12,1.1
+Raining no high winds,Wet or damp,21877,5244,23.97,1.01
+Other,Dry,3325,533,16.03,0.68
+Other,Wet or damp,2086,513,24.59,1.04
+Raining + high winds,Wet or damp,2001,515,25.74,1.08
+Fine no high winds,Frost or ice,1940,437,22.53,0.95
+Fine + high winds,Dry,1200,370,30.83,1.3
+Other,Frost or ice,797,162,20.33,0.86
+Fine + high winds,Wet or damp,704,197,27.98,1.18
+Fog or mist,Wet or damp,553,152,27.49,1.16
+Raining no high winds,Dry,531,124,23.35,0.98
+Snowing no high winds,Snow,320,78,24.38,1.03
+Snowing no high winds,Wet or damp,224,58,25.89,1.09
+Fog or mist,Dry,180,45,25.0,1.05

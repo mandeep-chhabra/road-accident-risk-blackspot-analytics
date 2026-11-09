@@ -1,0 +1,7 @@
+junction_detail,collisions_count,ksi_count,ksi_rate_pct,relative_hazard_index
+Not at junction,108356,27353,25.24,1.06
+T or staggered junction,58682,13414,22.86,0.96
+Crossroads,19248,4338,22.54,0.95
+Other junction,11925,2857,23.96,1.01
+Slip road,4538,1047,23.07,0.97
+Roundabout,3264,733,22.46,0.95

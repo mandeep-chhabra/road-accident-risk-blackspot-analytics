@@ -1,0 +1,6 @@
+vehicle_involvement_cohort,collisions_count,fatal_count,serious_count,ksi_count,ksi_rate_pct,avg_casualties_per_incident
+Motorcycle Involved,35443,685,10791,11476,32.38,1.09
+Pedal Cycle Involved,30619,181,7533,7714,25.19,1.02
+Bus / Coach Involved,5498,85,1173,1258,22.88,1.35
+Car / Passenger Only,114997,1591,22866,24457,21.27,1.37
+HGV / Goods Involved,23671,582,4398,4980,21.04,1.4

@@ -1,0 +1,89 @@
+{
+  "total_clusters_identified": 621,
+  "clustered_collisions_count": 22808,
+  "clustered_percentage": 10.85,
+  "eps_meters": 150.0,
+  "min_samples": 15,
+  "temporal_stability_2022_vs_2023": {
+    "clusters_2022": 426,
+    "clusters_2023": 424,
+    "evaluation_metrics": {
+      "k_10": {
+        "k": 10,
+        "precision_at_k": 0.7,
+        "recall_at_k": 0.7,
+        "f1_at_k": 0.7,
+        "recurrent_hotspots_count": 7
+      },
+      "k_20": {
+        "k": 20,
+        "precision_at_k": 0.75,
+        "recall_at_k": 0.7,
+        "f1_at_k": 0.7241,
+        "recurrent_hotspots_count": 15
+      },
+      "k_50": {
+        "k": 50,
+        "precision_at_k": 0.72,
+        "recall_at_k": 0.74,
+        "f1_at_k": 0.7299,
+        "recurrent_hotspots_count": 36
+      },
+      "k_100": {
+        "k": 100,
+        "precision_at_k": 0.72,
+        "recall_at_k": 0.7,
+        "f1_at_k": 0.7099,
+        "recurrent_hotspots_count": 72
+      }
+    }
+  },
+  "getis_ord_grid_analysis": {
+    "total_1km_cells": 45635,
+    "statistically_significant_hotspots_count": 4215,
+    "hotspot_percentage": 9.24,
+    "max_gi_zscore": 53.55
+  },
+  "top_5_blackspots": [
+    {
+      "risk_rank": 1,
+      "police_force_name": "Metropolitan Police",
+      "total_collisions": 606,
+      "fatal_count": 1,
+      "serious_count": 137,
+      "severity_weighted_score": 889.0
+    },
+    {
+      "risk_rank": 2,
+      "police_force_name": "Metropolitan Police",
+      "total_collisions": 457,
+      "fatal_count": 2,
+      "serious_count": 85,
+      "severity_weighted_score": 645.0
+    },
+    {
+      "risk_rank": 3,
+      "police_force_name": "Metropolitan Police",
+      "total_collisions": 415,
+      "fatal_count": 2,
+      "serious_count": 73,
+      "severity_weighted_score": 579.0
+    },
+    {
+      "risk_rank": 4,
+      "police_force_name": "Metropolitan Police",
+      "total_collisions": 428,
+      "fatal_count": 0,
+      "serious_count": 62,
+      "severity_weighted_score": 552.0
+    },
+    {
+      "risk_rank": 5,
+      "police_force_name": "Metropolitan Police",
+      "total_collisions": 286,
+      "fatal_count": 1,
+      "serious_count": 52,
+      "severity_weighted_score": 399.0
+    }
+  ]
+}

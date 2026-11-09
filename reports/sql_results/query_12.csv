@@ -1,0 +1,16 @@
+police_force_name,daytime_collisions,daytime_ksi_rate_pct,nighttime_collisions,nighttime_ksi_rate_pct,night_to_day_risk_multiplier
+Northamptonshire,2180,20.78,282,37.23,1.79
+Thames Valley,5647,19.99,556,33.45,1.67
+Northumbria,3435,22.36,339,36.28,1.62
+Avon & Somerset,4244,14.66,440,23.18,1.58
+Greater Manchester,4677,26.49,657,41.25,1.56
+Merseyside,3981,20.15,412,30.58,1.52
+Derbyshire,3314,21.73,426,30.75,1.42
+Humberside,3552,22.72,336,32.14,1.41
+Lincolnshire,2978,20.89,350,29.43,1.41
+Cambridgeshire,2739,25.52,264,35.23,1.38
+Gloucestershire,1807,32.54,199,44.72,1.37
+Dorset,2540,19.53,296,26.35,1.35
+Nottinghamshire,3503,25.32,408,33.58,1.33
+West Mercia,2773,28.67,334,38.02,1.33
+Wiltshire,2506,16.04,227,21.15,1.32

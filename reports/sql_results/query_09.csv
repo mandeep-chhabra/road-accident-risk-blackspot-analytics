@@ -1,0 +1,7 @@
+vehicle_category,total_vehicles_involved,fleet_share_pct,front_impacts,back_impacts,offside_impacts,nearside_impacts,front_impact_pct
+Car / Taxi,268426,70.03,134014,45877,35646,30647,49.93
+Motorcycle,36350,9.48,20286,3041,3586,4429,55.81
+Goods / Van / HGV,32629,8.51,15176,5693,4484,4147,46.51
+Pedal Cycle,31995,8.35,14799,3606,4769,4032,46.25
+Other,7069,1.84,3453,664,1062,810,48.85
+Bus / Coach,6829,1.78,2124,459,609,796,31.1

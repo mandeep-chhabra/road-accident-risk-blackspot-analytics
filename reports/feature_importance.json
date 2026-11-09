@@ -1,0 +1,102 @@
+[
+  {
+    "feature": "hist_area_ksi_rate",
+    "mean_abs_shap": 0.3525213524407446
+  },
+  {
+    "feature": "number_of_vehicles",
+    "mean_abs_shap": 0.30162057748831717
+  },
+  {
+    "feature": "has_motorcycle",
+    "mean_abs_shap": 0.20987254460534174
+  },
+  {
+    "feature": "has_pedal_cycle",
+    "mean_abs_shap": 0.16609297122437053
+  },
+  {
+    "feature": "speed_limit",
+    "mean_abs_shap": 0.1406608289157277
+  },
+  {
+    "feature": "road_type_Single carriageway",
+    "mean_abs_shap": 0.09610090767713471
+  },
+  {
+    "feature": "has_car",
+    "mean_abs_shap": 0.07939735282062796
+  },
+  {
+    "feature": "junction_detail_Missing / Unknown",
+    "mean_abs_shap": 0.05771937376601007
+  },
+  {
+    "feature": "urban_or_rural_Rural",
+    "mean_abs_shap": 0.05287645060023717
+  },
+  {
+    "feature": "hour",
+    "mean_abs_shap": 0.05054793001034867
+  },
+  {
+    "feature": "road_type_Unknown",
+    "mean_abs_shap": 0.031381655425974854
+  },
+  {
+    "feature": "light_conditions_Daylight",
+    "mean_abs_shap": 0.030357431098365906
+  },
+  {
+    "feature": "road_type_Roundabout",
+    "mean_abs_shap": 0.025939160702234162
+  },
+  {
+    "feature": "is_weekend",
+    "mean_abs_shap": 0.024874822568322068
+  },
+  {
+    "feature": "is_rush_hour",
+    "mean_abs_shap": 0.02418283704635103
+  },
+  {
+    "feature": "month",
+    "mean_abs_shap": 0.02367670312416921
+  },
+  {
+    "feature": "is_night",
+    "mean_abs_shap": 0.022216011460139247
+  },
+  {
+    "feature": "road_surface_conditions_Wet or damp",
+    "mean_abs_shap": 0.020619432104312222
+  },
+  {
+    "feature": "weather_conditions_Unknown",
+    "mean_abs_shap": 0.020461226884261018
+  },
+  {
+    "feature": "day_of_week",
+    "mean_abs_shap": 0.019770911657192882
+  },
+  {
+    "feature": "weather_conditions_Fine no high winds",
+    "mean_abs_shap": 0.01854740833674246
+  },
+  {
+    "feature": "light_conditions_Darkness - no street lighting",
+    "mean_abs_shap": 0.015429046436497573
+  },
+  {
+    "feature": "junction_detail_Not at junction",
+    "mean_abs_shap": 0.012823184436253068
+  },
+  {
+    "feature": "has_goods_hgv",
+    "mean_abs_shap": 0.011896960255011736
+  },
+  {
+    "feature": "road_surface_conditions_Dry",
+    "mean_abs_shap": 0.011390025995128932
+  }
+]

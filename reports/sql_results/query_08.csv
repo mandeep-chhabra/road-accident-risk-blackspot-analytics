@@ -1,0 +1,16 @@
+casualty_class,age_bracket,total_casualties,fatal_casualties,serious_casualties,slight_casualties,casualty_ksi_rate_pct
+Driver or rider,25-59 (Adult),113781,1059,19340,93382,17.93
+Driver or rider,18-24 (Young Adult),29153,310,5399,23444,19.58
+Driver or rider,60+ (Senior),24209,599,5800,17810,26.43
+Driver or rider,0-17 (Youth),7594,49,1774,5771,24.01
+Driver or rider,Unknown Age,2423,0,228,2195,9.41
+Pedestrian,25-59 (Adult),15733,324,4366,11043,29.81
+Pedestrian,0-17 (Youth),10942,48,2861,8033,26.59
+Pedestrian,60+ (Senior),7260,363,2864,4033,44.45
+Pedestrian,18-24 (Young Adult),3770,55,1058,2657,29.52
+Pedestrian,Unknown Age,878,0,83,795,9.45
+Vehicle or pillion passenger,25-59 (Adult),19090,142,2816,16132,15.5
+Vehicle or pillion passenger,0-17 (Youth),13264,88,1578,11598,12.56
+Vehicle or pillion passenger,18-24 (Young Adult),9780,128,1789,7863,19.6
+Vehicle or pillion passenger,60+ (Senior),7790,170,1755,5865,24.71
+Vehicle or pillion passenger,Unknown Age,2754,0,129,2625,4.68

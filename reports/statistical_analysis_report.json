@@ -1,0 +1,196 @@
+{
+  "dataset_sample_size": 210228,
+  "proportions_95_ci": {
+    "fatal_proportion": {
+      "estimate": 0.01486,
+      "ci_95": [
+        0.01435,
+        0.01539
+      ],
+      "percentage": "1.49% [1.44%, 1.54%]"
+    },
+    "serious_proportion": {
+      "estimate": 0.22243,
+      "ci_95": [
+        0.22066,
+        0.22421
+      ],
+      "percentage": "22.24% [22.07%, 22.42%]"
+    },
+    "ksi_proportion": {
+      "estimate": 0.23729,
+      "ci_95": [
+        0.23548,
+        0.23911
+      ],
+      "percentage": "23.73% [23.55%, 23.91%]"
+    }
+  },
+  "chi_square_battery": [
+    {
+      "factor_col": "speed_limit",
+      "factor_label": "Speed Limit (mph)",
+      "chi2_stat": 3678.94,
+      "degrees_of_freedom": 10,
+      "raw_p_value": 0.0,
+      "cramers_v": 0.0934,
+      "n_observations": 210228,
+      "fdr_adjusted_p_value": 0.0,
+      "is_statistically_significant": true
+    },
+    {
+      "factor_col": "road_type",
+      "factor_label": "Road Geometry Type",
+      "chi2_stat": 891.71,
+      "degrees_of_freedom": 8,
+      "raw_p_value": 3.472084181345292e-187,
+      "cramers_v": 0.0465,
+      "n_observations": 204297,
+      "fdr_adjusted_p_value": 8.333002035228701e-187,
+      "is_statistically_significant": true
+    },
+    {
+      "factor_col": "light_conditions",
+      "factor_label": "Lighting Conditions",
+      "chi2_stat": 1535.22,
+      "degrees_of_freedom": 8,
+      "raw_p_value": 0.0,
+      "cramers_v": 0.0603,
+      "n_observations": 210227,
+      "fdr_adjusted_p_value": 0.0,
+      "is_statistically_significant": true
+    },
+    {
+      "factor_col": "weather_conditions",
+      "factor_label": "Weather Conditions",
+      "chi2_stat": 165.64,
+      "degrees_of_freedom": 14,
+      "raw_p_value": 5.18609249326356e-28,
+      "cramers_v": 0.0193,
+      "n_observations": 203939,
+      "fdr_adjusted_p_value": 5.65755544719661e-28,
+      "is_statistically_significant": true
+    },
+    {
+      "factor_col": "road_surface_conditions",
+      "factor_label": "Road Surface Conditions",
+      "chi2_stat": 79.5,
+      "degrees_of_freedom": 8,
+      "raw_p_value": 6.153842008652604e-14,
+      "cramers_v": 0.0132,
+      "n_observations": 205785,
+      "fdr_adjusted_p_value": 6.153842008652604e-14,
+      "is_statistically_significant": true
+    },
+    {
+      "factor_col": "urban_or_rural",
+      "factor_label": "Urban vs Rural Environment",
+      "chi2_stat": 2429.96,
+      "degrees_of_freedom": 2,
+      "raw_p_value": 0.0,
+      "cramers_v": 0.1075,
+      "n_observations": 210228,
+      "fdr_adjusted_p_value": 0.0,
+      "is_statistically_significant": true
+    },
+    {
+      "factor_col": "junction_detail",
+      "factor_label": "Junction Detail",
+      "chi2_stat": 446.6,
+      "degrees_of_freedom": 10,
+      "raw_p_value": 1.1123955854529974e-89,
+      "cramers_v": 0.0326,
+      "n_observations": 206013,
+      "fdr_adjusted_p_value": 2.2247911709059947e-89,
+      "is_statistically_significant": true
+    },
+    {
+      "factor_col": "is_rush_hour",
+      "factor_label": "Rush Hour Indicator",
+      "chi2_stat": 379.18,
+      "degrees_of_freedom": 2,
+      "raw_p_value": 4.5870704150191654e-83,
+      "cramers_v": 0.0424,
+      "n_observations": 210228,
+      "fdr_adjusted_p_value": 7.863549282889997e-83,
+      "is_statistically_significant": true
+    },
+    {
+      "factor_col": "is_weekend",
+      "factor_label": "Weekend Indicator",
+      "chi2_stat": 291.41,
+      "degrees_of_freedom": 2,
+      "raw_p_value": 5.2669722213826324e-64,
+      "cramers_v": 0.0371,
+      "n_observations": 210228,
+      "fdr_adjusted_p_value": 7.022629628510177e-64,
+      "is_statistically_significant": true
+    },
+    {
+      "factor_col": "has_motorcycle",
+      "factor_label": "Motorcycle Involvement",
+      "chi2_stat": 1765.08,
+      "degrees_of_freedom": 2,
+      "raw_p_value": 0.0,
+      "cramers_v": 0.0916,
+      "n_observations": 210228,
+      "fdr_adjusted_p_value": 0.0,
+      "is_statistically_significant": true
+    },
+    {
+      "factor_col": "has_pedal_cycle",
+      "factor_label": "Pedal Cycle Involvement",
+      "chi2_stat": 305.9,
+      "degrees_of_freedom": 2,
+      "raw_p_value": 3.7530012852660875e-67,
+      "cramers_v": 0.038,
+      "n_observations": 210228,
+      "fdr_adjusted_p_value": 5.629501927899131e-67,
+      "is_statistically_significant": true
+    },
+    {
+      "factor_col": "has_goods_hgv",
+      "factor_label": "HGV / Goods Vehicle Involvement",
+      "chi2_stat": 257.24,
+      "degrees_of_freedom": 2,
+      "raw_p_value": 1.382531188655557e-56,
+      "cramers_v": 0.0348,
+      "n_observations": 210228,
+      "fdr_adjusted_p_value": 1.6590374263866684e-56,
+      "is_statistically_significant": true
+    }
+  ],
+  "continuous_tests": [
+    {
+      "test_name": "Kruskal-Wallis H-test",
+      "description": "Number of casualties across accident severity levels (Slight, Serious, Fatal)",
+      "statistic": 1407.41,
+      "p_value": 2.4284677911293273e-306,
+      "slight_median": 1.0,
+      "slight_mean": 1.242,
+      "serious_median": 1.0,
+      "serious_mean": 1.367,
+      "fatal_median": 1.0,
+      "fatal_mean": 1.702,
+      "interpretation": "Casualty count increases with collision severity; fatal collisions involve significantly higher casualty counts."
+    },
+    {
+      "test_name": "Mann-Whitney U Test",
+      "description": "Number of vehicles involved: Fatal vs Slight collisions",
+      "statistic": 219954863.0,
+      "p_value": 1.3599745788492343e-43,
+      "fatal_mean_veh": 1.765,
+      "slight_mean_veh": 1.85,
+      "interpretation": "Fatal collisions involve a statistically significant difference in vehicle composition compared to slight collisions."
+    },
+    {
+      "test_name": "Mann-Whitney U Test",
+      "description": "Speed limits in Rural vs Urban road networks",
+      "statistic": 8349552939.0,
+      "p_value": 0.0,
+      "rural_mean_speed": 49.9,
+      "urban_mean_speed": 29.2,
+      "interpretation": "Rural road networks have significantly higher posted speed limits (mean 53.4 mph vs 27.5 mph), contributing to higher kinetic energy and collision severity."
+    }
+  ]
+}

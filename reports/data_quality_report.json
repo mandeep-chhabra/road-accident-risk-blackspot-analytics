@@ -1,0 +1,32 @@
+{
+  "raw_collisions_count": 210262,
+  "raw_casualties_count": 268457,
+  "raw_vehicles_count": 383360,
+  "clean_collisions_count": 210228,
+  "clean_casualties_count": 268421,
+  "clean_vehicles_count": 383298,
+  "dropped_invalid_coordinates": 34,
+  "years_covered": [
+    2022,
+    2023
+  ],
+  "date_range": [
+    "2022-01-01",
+    "2023-12-31"
+  ],
+  "severity_distribution": {
+    "Fatal": 3124,
+    "Serious": 46761,
+    "Slight": 160343,
+    "KSI_Total": 49885,
+    "KSI_Rate_Pct": 23.729
+  },
+  "coordinate_bounding_box": {
+    "lat_min": 49.914329,
+    "lat_max": 60.435892,
+    "lon_min": -7.429339,
+    "lon_max": 1.759829
+  },
+  "database_file": "data/road_safety.db",
+  "database_size_mb": 113.84
+}

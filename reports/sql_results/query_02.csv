@@ -1,0 +1,16 @@
+police_force,police_force_name,region,total_collisions,fatal_count,serious_count,ksi_total,ksi_rate_pct,volume_rank,severity_risk_rank
+1,Metropolitan Police,London,46067,201,7121,7322,15.89,1,41
+20,West Midlands,West Midlands,9631,90,1802,1892,19.64,2,37
+13,West Yorkshire,Yorkshire & The Humber,8644,111,2445,2556,29.57,3,12
+99,Police Scotland,Scotland,8357,302,3212,3514,42.05,4,1
+46,Kent,South East,7879,97,1480,1577,20.02,5,36
+47,Sussex,South East,7212,85,1900,1985,27.52,6,17
+44,Hampshire,South East,6836,98,1620,1718,25.13,7,23
+43,Thames Valley,South East,6203,93,1222,1315,21.2,8,31
+42,Essex,East of England,5741,86,1502,1588,27.66,9,16
+50,Devon & Cornwall,South West,5558,89,1300,1389,24.99,10,24
+4,Cheshire,North West,5524,73,1796,1869,33.83,11,4
+45,Surrey,South East,5523,50,1330,1380,24.99,12,24
+6,Greater Manchester,North West,5334,105,1405,1510,28.31,13,14
+52,Avon & Somerset,South West,4684,80,644,724,15.46,14,42
+5,Merseyside,North West,4393,45,883,928,21.12,15,32
